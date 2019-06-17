@@ -1,2 +1,2 @@
 # stepic
-home work
+homework
